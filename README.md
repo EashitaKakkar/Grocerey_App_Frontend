@@ -1,13 +1,12 @@
-# FreshGo Grocery UI
+# Grocery UI (Freelance Project)
 
 ## Project Overview
-This is a high fidelity grocery store frontend built with Flutter. The application features a dynamic category section that transitions between a single row and a full grid layout using smooth animations.
+This is a high fidelity grocery store frontend built with Flutter for a real client. The application features a dynamic category section that transitions between a single row and a full grid layout using smooth animations.
 
 ## Interface Preview
 
 | Home Screen | Categories Expanded | Product Details |
-| :--- | :--- | :--- |
-| <img src="image_c6f40e.jpg" width="250"> | 
+| <img src="38275142-9a59-479f-ae86-2c5ff30b1e71.jpg" width="250"> | 
 
 ## Core Features
 1. Animated Category Grid using AnimatedCrossFade
@@ -26,12 +25,3 @@ This is a high fidelity grocery store frontend built with Flutter. The applicati
 3. Ensure assets are defined in pubspec.yaml
 4. Execute flutter run on your emulator or device
 
-## Gallery
-### State Collapsed
-<img src="image_c6f40e.jpg" width="400">
-
-### State Expanded
-<img src="image_3447d2.png" width="400">
-
-## Development Context
-This project was built while practicing Java Data Structures and Algorithms following Strivers A to Z sheet. It demonstrates the ability to translate complex UI designs into functional code while maintaining performance.
