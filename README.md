@@ -5,8 +5,9 @@ This is a high fidelity grocery store frontend built with Flutter for a real cli
 
 ## Interface Preview
 
-| Home Screen | Categories Expanded | Product Details |
-| <img src="38275142-9a59-479f-ae86-2c5ff30b1e71.jpg" width="250"> | 
+| Home Screen|
+| :---|
+| <img src="assets/images/38275142-9a59-479f-ae86-2c5ff30b1e71.jpg" width="950"> | 
 
 ## Core Features
 1. Animated Category Grid using AnimatedCrossFade
